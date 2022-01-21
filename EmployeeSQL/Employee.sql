@@ -54,4 +54,4 @@ WHERE departments.dept_name = 'Sales' OR  departments.dept_name = 'Development';
 SELECT last_name, COUNT(last_name) as LN_Freq
 FROM employees
 GROUP BY last_name
-ORDER BY LN_Freq desc
+ORDER BY LN_Freq DESC;
