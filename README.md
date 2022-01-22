@@ -5,7 +5,7 @@ The given scnenario is a research project on employees of the corporation from t
 
 First, I made an ERD to get a proper visualization of the data.
 
-![sql.png](sql.png)
+![ERD.png](EmployeeSQL/ERD.png)
 
 Then, I made a schema of the six csv files to be able to query the data.
 
